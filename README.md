@@ -1,7 +1,13 @@
 **Automated Red Teaming Tool**
 
+This is an interactive red teaming tool that allows users to conduct red teaming of language models whether hosted locally or accessed via API, exposed through streamlit user interface. The goal is to enable users to enhance the safety of their systems. 
 
-This is an interactive, Streamlit-based red teaming tool that allows users to conduct red teaming of language models whether hosted locally or accessed via API. The goal is to enable users to enhance the safety of their systems. 
+### This project showcases:
+- Full-stack **AI safety engineering** skills, including:
+  - Front-end tool development with Streamlit
+  - Backend orchestration of LLMs for evaluation
+  - Prompt management and LLM-as-a-judge reasoning
+  - Data handling and visualization of safety outcomes
 
 Users can:
 - Upload their own red teaming prompts
@@ -36,4 +42,8 @@ This makes it easy to:
 
 A video demo of this tool is available for trusted reviewers.  
 Please refer to the link provided to you by me. (i.e. in my resume or otherwise, contact me directly for access)
+
+All rights reserved.
+
+This repository is made available for viewing purposes only. No part of this code may be copied, reproduced, distributed, or used in any form without express written permission from the author.
 
